@@ -1,5 +1,3 @@
----
-
 ### About me:
 
 I'm a senior full stack developer 8+ years experience in Web & mobile app development.
