@@ -1,4 +1,4 @@
-### Senior full stack developer 👋
+### Senior Full Stack Developer 👋
 
 About me: 
 
