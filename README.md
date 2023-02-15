@@ -1,6 +1,17 @@
-### Senior Full Stack Developer 👋
+### About me:
 
-About me: 
+I'm a senior full stack developer 8+ years experience in Web & mobile app development.
+
+- Experience in IPTV, Food delivery, Social networking, Geolocation, and Business app development
+- Skills:
+  * Kotlin / Java
+  * Swift / Objective-C
+  * PHP / Laravel
+  * HTML/CSS/Javascript
+  * Typescript
+  * React
+  * Node.js
+ 
 
 <!--
 **avstreamdevpro/avstreamdevpro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
