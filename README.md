@@ -1,3 +1,5 @@
+---
+
 ### About me:
 
 I'm a senior full stack developer 8+ years experience in Web & mobile app development.
@@ -11,6 +13,8 @@ I'm a senior full stack developer 8+ years experience in Web & mobile app develo
   * Typescript
   * React
   * Node.js
+  * 
+ ---
  
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -29,8 +33,6 @@ I'm a senior full stack developer 8+ years experience in Web & mobile app develo
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-
----
 
 <!--
 **avstreamdevpro/avstreamdevpro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
