@@ -3,7 +3,7 @@
 I'm a senior full stack developer 8+ years experience in Web & mobile app development.
 
 - Experience in IPTV, Food delivery, Social networking, Geolocation, and Business app development
-- My Main Skills:
+:fire: My Main Skills:
   * Kotlin / Java
   * Swift / Objective-C
   * PHP / Laravel
@@ -11,7 +11,8 @@ I'm a senior full stack developer 8+ years experience in Web & mobile app develo
   * Typescript
   * React
   * Node.js
-  * 
+  * MySQL
+  * MongoDB
  ---
  
 <div>
