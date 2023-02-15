@@ -1,8 +1,8 @@
 ---
 
-### :man_technologist: <h1>About Me :</h1>
+### :man_technologist: About Me :
 
-<p>I'm a senior full stack developer 8+ years experience in Web & mobile app development such as 
+<p>I'm a senior full stack developer 8+ years experience in <em>Web & mobile app</em> development such as 
 IPTV, Food delivery, Social networking, Geolocation, and Business app.</p>
 <p>I'm familiar with MVC, MVVM, MVP architecture, and version control and teamwork tools.</p>
 
