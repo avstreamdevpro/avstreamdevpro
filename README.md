@@ -6,7 +6,7 @@
 IPTV, Food delivery, Social networking, Geolocation, and Business app.</p>
 <p>I'm familiar with MVC, MVVM, MVP architecture, and version control and teamwork tools.</p>
 
-### :fire: My Main Skills:
+### :fire: My Main Skills :
   * Kotlin / Java
   * Swift / Objective-C, SwiftUI
   * PHP / Laravel
